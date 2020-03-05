@@ -12,4 +12,4 @@ A Compact Arduino Powered Smart Watch
 - 3x AG3 Button Cell Batteries
 - 2x 5mm^2x3 Pushbuttons
 - 3D Printed PLA Casing
-- 3D printed TPU Watchband
+- 3D Printed TPU Watchband
