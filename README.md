@@ -17,3 +17,5 @@ A Compact Arduino Powered Smart Watch
 
 ## Current Wiring Solution
 ![Wiring Diagram](https://i.imgur.com/fTpShdJ.png)
+<sub>Please note that the BMP180 will break past 3.6V, and it is wired to 4.5V. This issue is currentely being resolved.
+</sub>
