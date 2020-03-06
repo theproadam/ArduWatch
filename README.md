@@ -11,5 +11,6 @@ A Compact Arduino Powered Smart Watch
 - BMP180 Barometer
 - 3x AG3 Button Cell Batteries
 - 2x 5mm^2x3 Pushbuttons
+- 3x 10K Resistors
 - 3D Printed PLA Casing
 - 3D Printed TPU Watchband
