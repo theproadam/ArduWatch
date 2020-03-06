@@ -14,3 +14,6 @@ A Compact Arduino Powered Smart Watch
 - 3x 10K Resistors
 - 3D Printed PLA Casing
 - 3D Printed TPU Watchband
+
+## Current Wiring Solution
+![Wiring Diagram](https://i.imgur.com/fTpShdJ.png)
