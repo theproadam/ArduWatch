@@ -9,6 +9,7 @@ A Compact Arduino Powered Smart Watch
 - HM-19 Bluetooth 5.0 BLE
 - MPU-9250 Accelerometer + Gyroscope + Compass
 - BMP180 Barometer
+- AMS1117-3.3 Voltage Regulator
 - 3x AG3 Button Cell Batteries
 - 2x 5mm^2x3 Pushbuttons
 - 3x 10K Resistors
