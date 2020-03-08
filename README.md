@@ -9,7 +9,7 @@ A Compact Arduino Powered Smart Watch
 - HM-19 Bluetooth 5.0 BLE
 - MPU-9250 Accelerometer + Gyroscope + Compass
 - BMP180 Barometer
-- AMS1117-3.3 Voltage Regulator
+- AMS1117-3.3 Voltage Regulator Module
 - 3x AG3 Button Cell Batteries
 - 2x 5mm^2x3 Pushbuttons
 - 3x 10K Resistors
@@ -17,6 +17,4 @@ A Compact Arduino Powered Smart Watch
 - 3D Printed TPU Watchband
 
 ## Current Wiring Solution
-![Wiring Diagram](https://i.imgur.com/fTpShdJ.png)
-<sub>Please note that the BMP180 will break past 3.6V, and it is wired to 4.5V. This issue is currentely being resolved.
-</sub>
+![Wiring Diagram](https://i.imgur.com/nK23vUt.png)
